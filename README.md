@@ -1,2 +1,2 @@
 # ALifeNotLived
-A story about missed <b>opportunities</b> in life
+A story about life's missed opportunities
