@@ -11,5 +11,7 @@
 <body>
   <h1>A Life Not Lived</h1>
   <p>A story about life's missed opportunities</p>
+  <h1>中文标题</h1>
+  <p>这是一段中文文本。</p>
 </body>
 </html>
